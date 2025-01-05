@@ -104,7 +104,7 @@ const config = {
 							},
 							{
 								label: "その他",
-								to: "/docs/more",
+								to: "/docs/ase/more",
 							},
 						],
 					},
