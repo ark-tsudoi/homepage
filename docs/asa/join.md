@@ -3,7 +3,7 @@ sidebar_position: 1
 description: 入り方
 ---
 
-# ASAサーバーの入り方
+# ASAサーバー参加方法
 :::note info 
 ASEサーバーの入り方は[こちら](/docs/ase/join.md)
 :::
